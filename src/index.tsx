@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import reportWebVitals from './reportWebVitals'
 import { BrowserRouter, Route } from 'react-router-dom'
+import 'normalize.css'
 
 import BreadkOutClone from './Containers/BreakoutClone'
 
